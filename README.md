@@ -1,8 +1,8 @@
 # DLVery
-The application in scope would be accessed by DLVery internal team, team who are in the ware house, and delivery agent who is on the ground to deliver the consignment to the end customers. 
+  The application in scope would be accessed by DLVery internal team, team who are in the ware house, and delivery agent who is on the ground to deliver the consignment to the end customers. 
   
   ## Objective
-  The customer DlVery is into logistics domain and operating in Tier1 cities in India. As part of their expansion plan, they are planning to expand their operations to selected  Tier 1 and Tier 2 cities. The current application which is handling the logistics management has limitations in terms  of handling product inventories, delivery tracking & other product customization. As part of the overall initiative, its planned to revamp their existing portfolio of applications in latest tech stack and wants to reach out to all segment of customers.
+    The customer DlVery is into logistics domain and operating in Tier1 cities in India. As part of their expansion plan, they are planning to expand their operations to selected  Tier 1 and Tier 2 cities. The current application which is handling the logistics management has limitations in terms  of handling product inventories, delivery tracking & other product customization. As part of the overall initiative, its planned to revamp their existing portfolio of applications in latest tech stack and wants to reach out to all segment of customers.
     
    ### Login Page
      a.Inventory Team(InvTeam) Login – DLVery member who manages the inventory in the warehouse
