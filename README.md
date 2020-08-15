@@ -31,3 +31,15 @@
      d.Upon delivering the consignment, the agent will capture the Customer’s name and signature
      e.In case of “Door Lock”, the Agent can update the status on the app about the missed delivery
      f.In case of Damaged Delivery or return delivery, the agent can update the status accordingly and return the item to the warehouse.
+ ## Built With
+   This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+    Bootstrap
+    JQuery
+    Servlets
+    HTML
+    CSS
+    JDBC for database connectivity
+    MySQL database
+    js
+    
